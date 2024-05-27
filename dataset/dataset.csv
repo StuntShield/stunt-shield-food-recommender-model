@@ -1,0 +1,453 @@
+,Nama,Kategori,Ukuran Porsi,Kalori,Lemak,Lemak Jenuh,Lemak Tak Jenuh Ganda,Lemak Tak Jenuh Tunggal,Kolestrol,Protein,Karbohidrat,Serat,Gula,Sodium,Kalium
+0,Alpukat,Buah Buahan,100 gram (g),160 kkal,"14,66g","2,126g","1,816g","9,799g",0mg,2g,"8,53g","6,7g","0,66g",7mg,485mg
+1,Guacamole,Buah Buahan,1 sdm,23 kkal,"2,08g","0,302g","0,258g","1,393g",0mg,"0,29g","1,24g",1g,"0,1g",22mg,69mg
+2,Guacamole dengan Tomat,Buah Buahan,100 gram (g),116 kkal,"9,94g","1,446g","1,258g","6,625g",0mg,"1,62g","7,64g","4,9g","1,37g",201mg,393mg
+3,Guacamole dengan Tomat dan Cabe Paprika,Buah Buahan,1 mangkok,266 kkal,"22,72g","3,304g","2,882g","15,129g",0mg,"3,77g","17,75g","11,4g","3,31g",459mg,913mg
+4,Buah Anggur,Buah Buahan,1 tanpa biji,3 kkal,"0,01g","0,003g","0,002g",0g,0mg,"0,04g","0,9g",0g,"0,77g",0mg,10mg
+5,"Anggur (Merah atau Hijau, Jenis Varietas Eropa Seperti Thompson tanpa Biji)",Buah Buahan,100 gram (g),69 kkal,"0,16g","0,054g","0,048g","0,007g",0mg,"0,72g","18,1g","0,9g","15,48g",2mg,191mg
+6,Anggur Jenis Amerika (Kulit Licin),Buah Buahan,1 anggur,2 kkal,"0,01g","0,003g","0,002g",0g,0mg,"0,02g","0,41g",0g,"0,39g",0mg,5mg
+7,Anggur Jenis Eropa,Buah Buahan,1 tanpa biji,3 kkal,"0,01g","0,003g","0,002g",0g,0mg,"0,04g","0,9g",0g,"0,77g",0mg,10mg
+8,Apel,Buah Buahan,1 sedang (diameter 7 cm) (kira-kira 3 per 450 g),72 kkal,"0,23g","0,039g","0,07g","0,01g",0mg,"0,36g","19,06g","3,3g","14,34g",1mg,148mg
+9,Apel (tanpa Kulit),Buah Buahan,100 gram (g),48 kkal,"0,13g","0,021g","0,037g","0,005g",0mg,"0,27g","12,76g","1,3g","10,1g",0mg,90mg
+10,Apel Emas Lezat,Buah Buahan,1 sedang (diameter 7 cm),72 kkal,"0,23g","0,038g","0,071g","0,01g",0mg,"0,36g","19,06g","3,3g","14,33g",1mg,148mg
+11,Apel Merah Lezat,Buah Buahan,1 sedang (diameter 7 cm),72 kkal,"0,23g","0,038g","0,071g","0,01g",0mg,"0,36g","19,06g","3,3g","14,33g",1mg,148mg
+12,Apel Fuji,Buah Buahan,100 gram (g),52 kkal,"0,17g","0,028g","0,051g","0,007g",0mg,"0,26g","13,81g","2,4g","10,39g",1mg,107mg
+13,Blewah Melon,Buah Buahan,100 gram (g),34 kkal,"0,19g","0,051g","0,081g","0,003g",0mg,"0,84g","8,16g","0,9g","7,86g",16mg,267mg
+14,Blueberi,Buah Buahan,100 gram (g),57 kkal,"0,33g","0,028g","0,146g","0,047g",0mg,"0,74g","14,49g","2,4g","9,96g",1mg,77mg
+15,"Blueberry (tanpa Pemanis, Beku)",Buah Buahan,100 gram (g),51 kkal,"0,64g","0,053g","0,279g","0,091g",0mg,"0,42g","12,17g","2,7g","8,45g",1mg,54mg
+16,"Blueberry (Manis, Beku)",Buah Buahan,100 gram (g),81 kkal,"0,13g","0,011g","0,057g","0,018g",0mg,"0,4g","21,95g","2,2g","19,72g",1mg,60mg
+17,Blueberry Tawar dalam Kemasan Air (Dimasak atau Kalengan),Buah Buahan,1 mangkok,93 kkal,"0,54g","0,046g","0,239g","0,076g",0mg,"1,22g","23,69g","3,9g","16,27g",2mg,112mg
+18,Beri,Buah Buahan,100 gram (g),33 kkal,"0,3g","0,016g","0,156g","0,043g",0mg,"0,68g","7,98g","2,1g","4,87g",1mg,150mg
+19,Stroberi,Buah Buahan,100 gram (g),32 kkal,"0,3g","0,015g","0,155g","0,043g",0mg,"0,67g","7,68g",2g,"4,66g",1mg,153mg
+20,Blueberi,Buah Buahan,100 gram (g),57 kkal,"0,33g","0,028g","0,146g","0,047g",0mg,"0,74g","14,49g","2,4g","9,96g",1mg,77mg
+21,Rasberi,Buah Buahan,100 gram (g),52 kkal,"0,65g","0,019g","0,375g","0,064g",0mg,"1,2g","11,94g","6,5g","4,42g",1mg,151mg
+22,Blackberry,Buah Buahan,100 gram (g),43 kkal,"0,49g","0,014g","0,28g","0,047g",0mg,"1,39g","9,61g","5,3g","4,88g",1mg,162mg
+23,Campuran Buah Kering,Buah Buahan,100 gram (g),244 kkal,"0,44g","0,06g","0,082g","0,063g",0mg,"2,19g","64,81g","7,4g","47,66g",17mg,746mg
+24,Apel Kering,Buah Buahan,100 gram (g),243 kkal,"0,32g","0,052g","0,093g","0,013g",0mg,"0,93g","65,89g","8,7g","57,19g",87mg,450mg
+25,Cranberry Kering,Buah Buahan,100 gram (g),308 kkal,"1,37g","0,103g","0,658g","0,198g",0mg,"0,07g","82,36g","5,7g",65g,3mg,40mg
+26,Prune Kering,Buah Buahan,100 gram (g),240 kkal,"0,38g","0,088g","0,062g","0,053g",0mg,"2,18g","63,88g","7,1g","38,13g",2mg,732mg
+27,Aprikot Kering,Buah Buahan,100 gram (g),241 kkal,"0,51g","0,017g","0,074g","0,074g",0mg,"3,39g","62,64g","7,3g","53,44g",10mg,1162mg
+28,Buah Pir,Buah Buahan,100 gram (g),58 kkal,"0,12g","0,006g","0,029g","0,026g",0mg,"0,38g","15,46g","3,1g","9,8g",1mg,119mg
+29,Pir (Dimasak atau Kalengan),Buah Buahan,1 mangkok,197 kkal,"0,35g","0,019g","0,08g","0,072g",0mg,"0,53g","50,99g","4,3g","40,43g",13mg,173mg
+30,Pir Asia,Buah Buahan,"1 buah dengan tinggi 5,5 cm x diameter 6,5 cm",51 kkal,"0,28g","0,015g","0,067g","0,06g",0mg,"0,61g","12,99g","4,4g","8,6g",0mg,148mg
+31,"Pir (Padat dan Cair, Kemasan Sirup Ringan, Kalengan)",Buah Buahan,"1 mangkok, separuh",143 kkal,"0,08g","0,005g","0,018g","0,015g",0mg,"0,48g","38,08g",4g,"30,37g",13mg,166mg
+32,Ceri Manis,Buah Buahan,1 ceri,4 kkal,"0,01g","0,003g","0,004g","0,003g",0mg,"0,07g","1,09g","0,1g","0,87g",0mg,15mg
+33,Bing Ceri,Buah Buahan,100 gram (g),63 kkal,"0,2g","0,038g","0,052g","0,047g",0mg,"1,06g","16,01g","2,1g","12,82g",0mg,222mg
+34,Ceri Beku,Buah Buahan,100 gram (g),46 kkal,"0,44g","0,1g","0,132g","0,12g",0mg,"0,92g","11,02g","1,6g","9,02g",1mg,124mg
+35,Ceri Merah Asam,Buah Buahan,100 gram (g),50 kkal,"0,3g","0,068g","0,09g","0,082g",0mg,1g,"12,18g","1,6g","8,49g",3mg,173mg
+36,Jeruk,Buah Buahan,"1 buah (diameter 6,5 cm)",62 kkal,"0,16g","0,02g","0,033g","0,03g",0mg,"1,23g","15,39g","3,1g","12,25g",0mg,237mg
+37,Jeruk Keprok (Jeruk Mandarin),Buah Buahan,"1 kecil (diameter 5,5 cm)",37 kkal,"0,22g","0,027g","0,046g","0,042g",0mg,"0,57g","9,34g","1,3g","7,41g",1mg,116mg
+38,Jeruk Bali,Buah Buahan,100 gram (g),32 kkal,"0,1g","0,014g","0,024g","0,013g",0mg,"0,63g","8,08g","1,1g","6,98g",0mg,139mg
+39,Jeruk Bali (Merah dan Merah Muda),Buah Buahan,100 gram (g),42 kkal,"0,14g","0,02g","0,036g","0,02g",0mg,"0,77g","10,66g","1,6g","6,89g",0mg,135mg
+40,Jeruk Keprok (Jeruk Mandarin),Buah Buahan,"1 kecil (diameter 5,5 cm)",37 kkal,"0,22g","0,027g","0,046g","0,042g",0mg,"0,57g","9,34g","1,3g","7,41g",1mg,116mg
+41,Jeruk Mandarin (Kaleng atau Beku),Buah Buahan,100 gram (g),61 kkal,"0,1g","0,012g","0,02g","0,018g",0mg,"0,45g","16,19g","0,7g","15,49g",6mg,78mg
+42,"Jeruk Keprok (Jeruk Mandarin, Jus Kemasan, Kalengan)",Buah Buahan,1 gelas,92 kkal,"0,07g","0,007g","0,012g","0,012g",0mg,"1,54g","23,83g","1,7g","22,09g",12mg,331mg
+43,"Jeruk Keprok (Jeruk Mandarin,  Sirup Ringan Kemasan, Kalengan)",Buah Buahan,1 gelas,154 kkal,"0,25g","0,03g","0,05g","0,045g",0mg,"1,13g","40,8g","1,8g","39,03g",15mg,197mg
+44,Kelapa,Buah Buahan,100 gram (g),354 kkal,"33,49g","29,698g","0,366g","1,425g",0mg,"3,33g","15,23g",9g,"6,23g",20mg,356mg
+45,Kelapa Kering,Buah Buahan,100 gram (g),660 kkal,"64,53g","57,218g","0,706g","2,745g",0mg,"6,88g","23,65g","16,3g","7,35g",37mg,543mg
+46,Air Kelapa,Buah Buahan,1 gelas,46 kkal,"0,48g","0,422g","0,005g","0,019g",0mg,"1,73g","8,9g","2,6g","6,26g",252mg,600mg
+47,Kismis,Buah Buahan,100 gram (g),299 kkal,"0,46g","0,058g","0,037g","0,051g",0mg,"3,07g","79,18g","3,7g","59,19g",11mg,749mg
+48,Kismis (tanpa Biji),Buah Buahan,100 gram (g),299 kkal,"0,46g","0,058g","0,037g","0,051g",0mg,"3,07g","79,18g","3,7g","59,19g",11mg,749mg
+49,Kismis Emas (tanpa Biji),Buah Buahan,100 gram (g),302 kkal,"0,46g","0,151g","0,135g","0,019g",0mg,"3,39g","79,52g",4g,"59,19g",12mg,746mg
+50,Kismis Dilapisi Coklat,Buah Buahan,1 kismis,4 kkal,"0,15g","0,088g","0,005g","0,047g",0mg,"0,04g","0,68g",0g,"0,62g",0mg,5mg
+51,Kismis Dilapisi Coklat Susu,Buah Buahan,100 gram (g),390 kkal,"14,8g","8,8g","0,51g","4,74g",3mg,"4,1g","68,3g","4,2g","62,22g",36mg,514mg
+52,Kurma,Buah Buahan,1 kurma,23 kkal,"0,03g","0,003g","0,002g","0,003g",0mg,"0,2g","6,23g","0,7g","5,26g",0mg,54mg
+53,Mangga,Buah Buahan,100 gram (g),65 kkal,"0,27g","0,066g","0,051g","0,101g",0mg,"0,51g",17g,"1,8g","14,8g",2mg,156mg
+54,Mangga Kering,Buah Buahan,"1 untai (8,5 cm x 2 cm x 0,3 cm)",16 kkal,"0,04g","0,01g","0,007g","0,015g",0mg,"0,07g","4,08g","0,3g","3,76g",0mg,23mg
+55,Nektar Mangga,Buah Buahan,1 mangkok,145 kkal,"0,28g","0,065g","0,05g","0,1g",0mg,"0,5g","37,9g","1,8g","35,67g",5mg,140mg
+56,Blewah Melon,Buah Buahan,100 gram (g),34 kkal,"0,19g","0,051g","0,081g","0,003g",0mg,"0,84g","8,16g","0,9g","7,86g",16mg,267mg
+57,Nanas,Buah Buahan,100 gram (g),48 kkal,"0,12g","0,009g","0,042g","0,014g",0mg,"0,54g","12,63g","1,4g","9,26g",1mg,115mg
+58,"Nanas (Padat dan Cair, Air Kemasan, Kalengan)",Buah Buahan,"1 mangkok, lumatan, irisan, atau potongan",79 kkal,"0,22g","0,015g","0,076g","0,027g",0mg,"1,06g","20,42g",2g,"18,45g",2mg,312mg
+59,"Nanas Potongan (Manis, Beku)",Buah Buahan,100 gram (g),86 kkal,"0,1g","0,007g","0,035g","0,012g",0mg,"0,4g","22,2g","1,1g","21,1g",2mg,100mg
+60,"Nanas (Padat dan Cair, Kemasan Sirup Ringan, Kalengan)",Buah Buahan,"1 mangkok, lumatan, irisan, atau potongan",131 kkal,"0,3g","0,023g","0,101g","0,033g",0mg,"0,91g","33,89g",2g,"31,88g",3mg,265mg
+61,"Nanas (Padat dan Cair, Jus Kemasan, Kalengan)",Buah Buahan,"1 mangkok, lumatan, irisan, atau potongan",149 kkal,"0,2g","0,015g","0,072g","0,025g",0mg,"1,05g","39,09g",2g,"35,98g",2mg,304mg
+62,Pepaya,Buah Buahan,100 gram (g),39 kkal,"0,14g","0,043g","0,031g","0,038g",0mg,"0,61g","9,81g","1,8g","5,9g",3mg,257mg
+63,Jus Pepaya,Buah Buahan,100 ml,60 kkal,"0,16g","0,049g","0,037g","0,043g",0mg,"0,18g","15,16g","0,6g","14,53g",5mg,32mg
+64,Pisang,Buah Buahan,100 gram (g),89 kkal,"0,33g","0,112g","0,073g","0,032g",0mg,"1,09g","22,84g","2,6g","12,23g",1mg,358mg
+65,Pisang Apel,Buah Buahan,1 buah,65 kkal,"0,24g","0,082g","0,053g","0,023g",0mg,"0,8g","16,67g","1,9g","8,93g",1mg,261mg
+66,Rasberi,Buah Buahan,100 gram (g),52 kkal,"0,65g","0,019g","0,375g","0,064g",0mg,"1,2g","11,94g","6,5g","4,42g",1mg,151mg
+67,Rasberi Merah,Buah Buahan,100 gram (g),52 kkal,"0,65g","0,019g","0,375g","0,064g",0mg,"1,2g","11,94g","6,5g","4,42g",1mg,151mg
+68,Rasberi Beku tanpa Pemanis,Buah Buahan,100 gram (g),52 kkal,"0,65g","0,019g","0,375g","0,064g",0mg,"1,2g","11,94g","6,5g","4,42g",1mg,136mg
+69,Rasberi Beku,Buah Buahan,100 gram (g),103 kkal,"0,16g","0,005g","0,089g","0,015g",0mg,"0,7g","26,16g","4,4g","21,76g",1mg,114mg
+70,Salad Buah,Buah Buahan,1 porsi (95 g),54 kkal,"0,81g","0,614g","0,042g","0,051g",0mg,"0,63g","12,5g","1,7g","10,23g",5mg,134mg
+71,Semangka,Buah Buahan,100 gram (g),30 kkal,"0,15g","0,016g","0,05g","0,037g",0mg,"0,61g","7,55g","0,4g","6,2g",1mg,112mg
+72,Stroberi,Buah Buahan,100 gram (g),32 kkal,"0,3g","0,015g","0,155g","0,043g",0mg,"0,67g","7,68g",2g,"4,66g",1mg,153mg
+73,Stroberi Beku tanpa Pemanis,Buah Buahan,100 gram (g),35 kkal,"0,11g","0,006g","0,054g","0,015g",0mg,"0,43g","9,13g","2,1g","4,56g",2mg,148mg
+74,Stroberi Beku,Buah Buahan,100 gram (g),87 kkal,"0,14g","0,007g","0,066g","0,019g",0mg,"0,52g","23,46g","1,9g","21,49g",2mg,98mg
+75,Stroberi Beku dengan Gula,Buah Buahan,1 mangkok,222 kkal,"0,36g","0,018g","0,168g","0,048g",0mg,"1,33g","59,82g","4,8g","54,8g",5mg,250mg
+76,Stroberi dalam Sirup (Dimasak atau Kalengan),Buah Buahan,100 gram (g),92 kkal,"0,26g","0,014g","0,129g","0,036g",0mg,"0,56g","23,53g","1,7g","21,83g",4mg,86mg
+77,Ayam,Daging,100 gram (g),237 kkal,"13,49g","3,758g","2,945g","5,296g",87mg,"27,07g",0g,0g,0g,404mg,221mg
+78,Ayam (Kulit tidak Dimakan),Daging,100 gram (g),188 kkal,"7,35g","2,023g","1,676g","2,638g",88mg,"28,69g",0g,0g,0g,408mg,241mg
+79,Dada Ayam,Daging,100 gram (g),195 kkal,"7,72g","2,172g","1,646g","3,005g",83mg,"29,55g",0g,0g,0g,393mg,243mg
+80,Paha Ayam,Daging,"1 kecil (hasil setelah masak, tulang dihilangkan)",135 kkal,"8,45g","2,362g","1,865g","3,354g",51mg,"13,67g",0g,0g,0g,223mg,121mg
+81,Sayap Ayam,Daging,"1 kecil (hasil setelah masak, tulang dihilangkan)",81 kkal,"5,4g","1,513g","1,15g","2,121g",23mg,"7,46g",0g,0g,0g,113mg,51mg
+82,Ayam Goreng tanpa Pelapis (Kulit Dimakan),Daging,100 gram (g),260 kkal,"15,35g","4,146g","3,485g","6,096g",107mg,"28,62g",0g,0g,0g,420mg,233mg
+83,Dada Ayam Goreng tanpa Pelapis (Kulit Dimakan),Daging,100 gram (g),216 kkal,"9,1g","2,414g","2,091g","3,583g",92mg,"31,67g",0g,0g,0g,430mg,267mg
+84,Sayap Ayam Goreng tanpa Pelapis (Kulit Dimakan),Daging,"1 kecil (hasil setelah masak, tulang dihilangkan)",89 kkal,"6,33g","1,651g","1,468g","2,504g",31mg,"7,56g",0g,0g,0g,120mg,52mg
+85,Paha Ayam Goreng tanpa Pelapis (Kulit Dimakan),Daging,"1 sedang (hasil setelah masak, tulang dihilangkan)",119 kkal,"6,79g","1,676g","1,717g","2,67g",56mg,"13,6g",0g,0g,0g,211mg,116mg
+86,Kaki Ayam Goreng tanpa Pelapis (Kulit Dimakan),Daging,100 gram (g),250 kkal,"14,78g","3,803g","3,562g","5,803g",119mg,"27,31g",0g,0g,0g,422mg,238mg
+87,Daging Ayam (Panggang),Daging,100 gram (g),111 kkal,"2,7g","0,67g","0,67g","0,83g",65mg,"20,33g",0g,0g,0g,75mg,238mg
+88,Daging dan Kulit Ayam (Panggang),Daging,100 gram (g),216 kkal,"15,85g","4,53g","3,4g","6,64g",73mg,"17,14g",0g,0g,0g,68mg,196mg
+89,Daging Babi Panggang,Daging,100 gram (g),247 kkal,"14,59g","5,348g","1,205g","6,483g",82mg,"26,98g",0g,0g,0g,221mg,406mg
+90,Babi Panggang (Hanya Daging yang Dimakan),Daging,100 gram (g),208 kkal,"9,57g","3,489g","0,755g","4,294g",81mg,"28,45g",0g,0g,0g,289mg,423mg
+91,Bahu Daging Babi Panggang,Daging,"1 irisan tipis (berdiameter sekitar 7,5 cm x 0,3 cm)",41 kkal,"2,98g","1,096g","0,286g","1,32g",13mg,"3,25g",0g,0g,0g,32mg,46mg
+92,Bakso Daging Sapi,Daging,1 sedang,57 kkal,"3,69g","1,394g","0,205g","0,163g","1,57g","3,47g","2,12g",21mg,"0,1g","0,42g",134mg
+93,Bakso Daging Sapi dan Babi,Daging,1 kecil,25 kkal,"1,43g","0,53g","0,065g","0,085g","0,607g","1,9g",1g,10mg,"0,1g","0,2g",63mg
+94,Bakso Ayam,Daging,1 sedang,45 kkal,"1,57g","0,45g","0,354g","0,551g",23mg,"5,43g","1,94g","0,1g","0,41g",124mg,56mg
+95,Bakso Kalkun,Daging,1 sedang,42 kkal,"1,16g","0,383g","0,31g","0,277g",21mg,"5,5g","1,94g","0,1g","0,41g",121mg,65mg
+96,Bakso Daging Babi,Daging,1 sedang,47 kkal,"1,95g","0,566g","0,355g","0,853g",23mg,"5,55g","1,33g","0,1g","0,14g",223mg,80mg
+97,Daging Bebek,Daging,100 gram (g),132 kkal,"5,95g","2,32g","0,75g","1,54g",77mg,"18,28g",0g,0g,0g,74mg,271mg
+98,Dada Ayam,Daging,100 gram (g),195 kkal,"7,72g","2,172g","1,646g","3,005g",83mg,"29,55g",0g,0g,0g,393mg,243mg
+99,Dada Ayam (Kulit tidak Dimakan),Daging,100 gram (g),164 kkal,"3,54g","1,002g","0,764g","1,23g",84mg,"30,76g",0g,0g,0g,396mg,254mg
+100,Dada Ayam Masak,Daging,100 gram (g),110 kkal,"1,24g","0,33g","0,02g","0,28g","0,3g","23,09g",0g,58mg,0g,0g,65mg
+101,Daging Dada Kalkun,Daging,100 gram (g),104 kkal,"1,66g","0,48g",0g,"0,274g","0,54g","17,07g","4,21g",43mg,"0,5g","3,51g",1015mg
+102,"Daging Dada Kalkun (Digoreng, Dimasak, Dipanggang)",Daging,100 gram (g),135 kkal,"0,74g","0,24g","0,2g","0,13g",83mg,"30,06g",0g,0g,0g,52mg,292mg
+103,Daging Babi,Daging,100 gram (g),271 kkal,"17,04g","6,168g","1,438g","7,576g",90mg,"27,34g",0g,0g,0g,384mg,351mg
+104,Potongan Daging Babi,Daging,100 gram (g),250 kkal,"14,57g","5,402g","1,413g","6,381g",83mg,"27,91g",0g,0g,0g,386mg,404mg
+105,Daging Babi Panggang,Daging,100 gram (g),247 kkal,"14,59g","5,348g","1,205g","6,483g",82mg,"26,98g",0g,0g,0g,221mg,406mg
+106,Iga Babi,Daging,100 gram (g),395 kkal,"30,17g","11,073g","2,719g","13,424g",120mg,"28,94g",0g,0g,0g,255mg,319mg
+107,Potongan Daging Domba,Daging,"1 kecil (112 g, dengan tulang, mentah) (hasil setelah masak, tulang dihhilangkan)",226 kkal,"17,55g","7,669g","1,302g","7,186g",68mg,"15,86g",0g,0g,0g,281mg,184mg
+108,Potongan Daging Domba (Hanya Daging yang Dimakan),Daging,100 gram (g),215 kkal,"10,48g","3,857g","0,796g","4,382g",93mg,"28,17g",0g,0g,0g,403mg,327mg
+109,Daging Sapi,Daging,100 gram (g),288 kkal,"19,54g","7,731g","0,708g","8,353g",87mg,"26,33g",0g,0g,0g,384mg,315mg
+110,Daging Sapi Giling,Daging,100 gram (g),276 kkal,"18,58g","7,192g","0,516g","8,557g",88mg,"25,35g",0g,0g,0g,400mg,287mg
+111,Daging Sapi Giling tanpa Lemak,Daging,100 gram (g),269 kkal,"17,67g","6,71g","0,513g","7,833g",90mg,"25,54g",0g,0g,0g,397mg,302mg
+112,Daging Sapi Panggang,Daging,100 gram (g),267 kkal,"17,32g","6,813g","0,627g","7,355g",76mg,"25,91g",0g,0g,0g,217mg,292mg
+113,Daging Kornet,Daging,"1 irisan tipis (sekitar 11 cm x 6,5 cm x 0,3 cm)",53 kkal,"3,99g","1,331g","0,141g","1,936g",21mg,"3,82g","0,1g",0g,0g,238mg,30mg
+114,Daging Sapi Giling,Daging,100 gram (g),276 kkal,"18,58g","7,192g","0,516g","8,557g",88mg,"25,35g",0g,0g,0g,400mg,287mg
+115,Daging Sapi Ekstra tanpa Lemak,Daging,100 gram (g),248 kkal,"15,35g","5,843g","0,48g","6,615g",89mg,"25,71g",0g,0g,0g,394mg,315mg
+116,Daging Sapi (95% tanpa Lemak / 5% Lemak),Daging,100 gram (g),137 kkal,5g,"2,25g","0,341g","0,257g","2,151g","21,41g",0g,62mg,0g,0g,66mg
+117,Daging Sapi (85% tanpa Lemak / 15% Lemak),Daging,100 gram (g),215 kkal,15g,"5,865g","0,935g","0,433g","6,555g","18,59g",0g,68mg,0g,0g,66mg
+118,Daging Sapi (70% tidak Berlemak / 30% Lemak),Daging,100 gram (g),332 kkal,30g,"11,289g","1,826g","0,696g","13,161g","14,35g",0g,78mg,0g,0g,67mg
+119,Daging Sapi Panggang,Daging,100 gram (g),267 kkal,"17,32g","6,813g","0,627g","7,355g",76mg,"25,91g",0g,0g,0g,217mg,292mg
+120,Daging Sapi Panggang (Hanya Bagian tanpa Lemak yang Dimakan),Daging,100 gram (g),198 kkal,"8,52g","3,228g","0,281g","3,531g",75mg,"28,32g",0g,0g,0g,217mg,306mg
+121,Daging Domba,Daging,100 gram (g),292 kkal,"20,77g","8,756g","1,497g","8,747g",96mg,"24,32g",0g,0g,0g,394mg,307mg
+122,Domba Giling,Daging,100 gram (g),282 kkal,"23,41g","10,19g","1,85g","9,6g",73mg,"16,56g",0g,0g,0g,59mg,222mg
+123,Daging Domba Panggang,Daging,100 gram (g),266 kkal,"18,15g","7,633g","1,394g","7,533g",92mg,"23,93g",0g,0g,0g,228mg,281mg
+124,Potongan Daging Domba (Hanya Daging yang Dimakan),Daging,100 gram (g),215 kkal,"10,48g","3,857g","0,796g","4,382g",93mg,"28,17g",0g,0g,0g,403mg,327mg
+125,Potongan Daging Domba (Daging dan Lemak Dimakan),Daging,100 gram (g),314 kkal,"24,37g","10,652g","1,809g","9,98g",95mg,"22,03g",0g,0g,0g,390mg,255mg
+126,Iga Babi,Daging,100 gram (g),395 kkal,"30,17g","11,073g","2,719g","13,424g",120mg,"28,94g",0g,0g,0g,255mg,319mg
+127,Iga Babi Panggang dengan Saus,Daging,100 gram (g),310 kkal,"22,33g","8,068g","2,182g","9,926g",87mg,"21,44g","4,2g","0,4g","1,29g",334mg,287mg
+128,Kalkun,Daging,100 gram (g),187 kkal,"7,02g","1,999g","1,749g","2,21g",77mg,"28,9g",0g,0g,0g,69mg,291mg
+129,Daging Dada Kalkun,Daging,100 gram (g),104 kkal,"1,66g","0,48g",0g,"0,274g","0,54g","17,07g","4,21g",43mg,"0,5g","3,51g",1015mg
+130,Paha Ayam,Daging,"1 kecil (hasil setelah masak, tulang dihilangkan)",135 kkal,"8,45g","2,362g","1,865g","3,354g",51mg,"13,67g",0g,0g,0g,223mg,121mg
+131,Paha Ayam (Kulit tidak Dimakan),Daging,100 gram (g),207 kkal,"10,79g","3,005g","2,459g","4,115g",94mg,"25,72g",0g,0g,0g,410mg,236mg
+132,Daging Paha Ayam (Ayam Pedaging),Daging,100 gram (g),119 kkal,"3,91g",1g,"0,106g","0,97g","1,21g","19,65g",0g,83mg,0g,0g,86mg
+133,Paha Ayam Panggang,Daging,100 gram (g),245 kkal,"15,36g","4,294g","3,392g","6,099g",92mg,"24,85g",0g,0g,0g,406mg,220mg
+134,Paha Ayam Panggang (Kulit Dimakan),Daging,"1 kecil (hasil setelah masak, tulang dihilangkan)",135 kkal,"8,45g","2,362g","1,865g","3,354g",51mg,"13,67g",0g,0g,0g,223mg,121mg
+135,Punggung Sapi,Daging,100 gram (g),342 kkal,"26,15g","10,203g","0,924g","11,555g",93mg,"24,84g",0g,0g,0g,225mg,242mg
+136,Daging Punggung Sapi (Hanya Bagian tanpa Lemak yang Dimakan),Daging,100 gram (g),230 kkal,"11,53g","4,133g","0,349g","5,311g",93mg,"29,63g",0g,0g,0g,232mg,284mg
+137,Sayap Ayam,Daging,"1 kecil (hasil setelah masak, tulang dihilangkan)",81 kkal,"5,4g","1,513g","1,15g","2,121g",23mg,"7,46g",0g,0g,0g,113mg,51mg
+138,Sayap Ayam (Kulit tidak Dimakan),Daging,100 gram (g),201 kkal,"8,06g","2,241g","1,765g","2,588g",84mg,"30,21g",0g,0g,0g,414mg,208mg
+139,Sayap Ayam Panggang (Kulit Dimakan),Daging,"1 kecil (hasil setelah masak, tulang dihilangkan)",86 kkal,"5,79g","1,621g","1,232g","2,273g",25mg,"7,99g",0g,0g,0g,121mg,55mg
+140,Sayap Ayam Goreng tanpa Pelapis (Kulit Dimakan),Daging,"1 kecil (hasil setelah masak, tulang dihilangkan)",89 kkal,"6,33g","1,651g","1,468g","2,504g",31mg,"7,56g",0g,0g,0g,120mg,52mg
+141,Daging dan Kulit Sayap Ayam (Ayam Pedaging),Daging,"1 sayap, tulang dihilangkan (hasil dari 450 g - ayam siap dimasak)",64 kkal,"4,63g","1,299g","0,055g","0,983g","1,842g","5,32g",0g,22mg,0g,0g,21mg
+142,Sosis Daging Sapi,Daging,1 ikatan (panjang 2 cm x 10 cm),42 kkal,"3,78g","1,497g","0,141g","1,785g",7mg,"1,44g","0,52g",0g,"0,33g",146mg,21mg
+143,Sosis Ayam,Daging,1 ikatan (panjang 2 cm x 10 cm),49 kkal,"2,83g","0,726g","0,083g","0,755g","1,021g","5,05g","0,43g",22mg,0g,0g,205mg
+144,Sosis Babi Segar,Daging,100 gram (g),304 kkal,"26,53g","8,801g","0,211g","3,712g","11,894g","15,09g",0g,72mg,0g,0g,636mg
+145,Sosis Kalkun,Daging,100 gram (g),155 kkal,"8,08g","1,963g","0,35g","2,386g","2,624g","18,79g","0,47g",75mg,0g,0g,593mg
+146,Sosis Italia,Daging,1 ikatan (panjang 13 cm ),234 kkal,"18,57g","6,484g","2,23g","8,126g",39mg,13g,"2,9g","0,1g","0,58g",821mg,207mg
+147,Cumi Goreng,Ikan & Seafood,100 gram (g),125 kkal,"2,17g","0,569g","0,715g","0,372g",217mg,"15,13g","9,9g","0,5g","0,66g",335mg,234mg
+148,Cumi Kukus atau Rebus,Ikan & Seafood,100 gram (g),91 kkal,"1,37g","0,355g","0,52g","0,106g",231mg,"15,45g","3,05g",0g,0g,367mg,244mg
+149,Cumi-cumi,Ikan & Seafood,100 gram (g),92 kkal,"1,38g","0,358g","0,524g","0,107g",233mg,"15,58g","3,08g",0g,0g,44mg,246mg
+150,Gurita,Ikan & Seafood,100 gram (g),82 kkal,"1,04g","0,227g","0,239g","0,162g",48mg,"14,91g","2,2g",0g,0g,230mg,350mg
+151,Udang,Ikan & Seafood,100 gram (g),144 kkal,"2,35g","0,446g","0,909g","0,344g",206mg,"27,59g","1,24g",0g,0g,613mg,176mg
+152,Lobster,Ikan & Seafood,"1 kecil (berat hidup 450 g) (hasil setelah dimasak, kulit dihilangkan)",114 kkal,"0,68g","0,125g","0,106g","0,187g",84mg,"23,99g","1,5g",0g,0g,826mg,412mg
+153,Kepiting,Ikan & Seafood,100 gram (g),101 kkal,"1,76g","0,226g","0,674g","0,278g",99mg,"20,03g",0g,0g,0g,600mg,321mg
+154,Remis,Ikan & Seafood,100 gram (g),86 kkal,"2,24g","0,425g","0,606g","0,507g",28mg,"11,9g","3,69g",0g,0g,286mg,320mg
+155,Gurita,Ikan & Seafood,100 gram (g),82 kkal,"1,04g","0,227g","0,239g","0,162g",48mg,"14,91g","2,2g",0g,0g,230mg,350mg
+156,Ikan,Ikan & Seafood,100 gram (g),84 kkal,"0,92g","0,195g","0,364g","0,16g",58mg,"17,76g",0g,0g,0g,81mg,351mg
+157,Ikan Panggang,Ikan & Seafood,100 gram (g),126 kkal,"3,44g","0,68g","1,141g","1,288g",73mg,"21,94g","0,33g",0g,"0,08g",356mg,341mg
+158,Ikan Salmon Panggang,Ikan & Seafood,100 gram (g),171 kkal,"7,56g","1,312g","2,627g","2,736g",62mg,"23,97g","0,49g",0g,"0,11g",467mg,395mg
+159,Nila (Ikan),Ikan & Seafood,100 gram (g),96 kkal,"1,7g","0,571g","0,387g","0,486g",50mg,"20,08g",0g,0g,0g,52mg,302mg
+160,Kakap (Ikan) (Spesies Campuran),Ikan & Seafood,100 gram (g),100 kkal,"1,34g","0,285g","0,459g","0,251g",37mg,"20,51g",0g,0g,0g,64mg,417mg
+161,Ikan Kembung,Ikan & Seafood,100 gram (g),167 kkal,"9,36g","2,444g","2,343g","3,205g",64mg,"19,32g",0g,0g,0g,78mg,389mg
+162,Ikan Kembung Atlantik,Ikan & Seafood,100 gram (g),205 kkal,"13,89g","3,257g","3,35g","5,456g",70mg,"18,6g",0g,0g,0g,90mg,314mg
+163,Ikan Lele,Ikan & Seafood,1 porsi (85 g),204 kkal,"12,35g","2,759g","3,122g","5,51g",59mg,"14,93g","7,26g","0,4g","0,72g",338mg,277mg
+164,Ikan Lele Panggang,Ikan & Seafood,100 gram (g),184 kkal,"11,71g","2,599g","2,667g","5,533g",55mg,"18,16g","0,41g",0g,"0,09g",385mg,354mg
+165,Ikan Salmon,Ikan & Seafood,100 gram (g),146 kkal,"5,93g","1,26g","1,992g","2,134g",45mg,"21,62g",0g,0g,0g,46mg,423mg
+166,Ikan Salmon Panggang,Ikan & Seafood,100 gram (g),171 kkal,"7,56g","1,312g","2,627g","2,736g",62mg,"23,97g","0,49g",0g,"0,11g",467mg,395mg
+167,Salmon Merah Muda,Ikan & Seafood,100 gram (g),116 kkal,"3,45g","0,558g","1,353g","0,934g",52mg,"19,94g",0g,0g,0g,67mg,323mg
+168,Ikan Sarden dalam Minyak (Kalengan),Ikan & Seafood,1 ikan sarden,25 kkal,"1,37g","0,183g","0,618g","0,464g",17mg,"2,95g",0g,0g,0g,61mg,48mg
+169,Ikan Sarden Di dalam Air,Ikan & Seafood,100 gram (g),217 kkal,"12,37g","2,791g","2,919g","5,112g",82mg,"24,58g",0g,0g,0g,918mg,447mg
+170,Sarden dengan Saus Tomat (Campuran),Ikan & Seafood,100 gram (g),186 kkal,"10,46g","2,686g","2,112g","4,821g",61mg,"20,86g","0,74g","0,1g","0,43g",414mg,341mg
+171,"Ikan Teri (Kering Padat dalam Minyak, Kalengan)",Ikan & Seafood,5 ikan teri,42 kkal,"1,94g","0,441g","0,512g","0,754g",17mg,"5,78g",0g,0g,0g,734mg,109mg
+172,Tuna dalam Air (Kalengan),Ikan & Seafood,100 gram (g),116 kkal,"0,82g","0,234g","0,337g","0,159g",30mg,"25,51g",0g,0g,0g,338mg,237mg
+173,Tuna dalam Minyak (Kalengan),Ikan & Seafood,100 gram (g),198 kkal,"8,21g","1,534g","2,885g","2,949g",18mg,"29,13g",0g,0g,0g,354mg,207mg
+174,Tuna Sirip Biru (Ikan),Ikan & Seafood,100 gram (g),144 kkal,"4,9g","1,257g","1,433g","1,6g",38mg,"23,33g",0g,0g,0g,39mg,252mg
+175,Tuna Sirip Kuning (Ikan),Ikan & Seafood,100 gram (g),108 kkal,"0,95g","0,235g","0,284g","0,154g",45mg,"23,38g",0g,0g,0g,37mg,444mg
+176,Ikan Tuna Panggang,Ikan & Seafood,100 gram (g),153 kkal,"3,96g","0,811g","1,169g","1,529g",53mg,"27,3g","0,41g",0g,"0,09g",366mg,524mg
+177,Kepiting,Ikan & Seafood,100 gram (g),101 kkal,"1,76g","0,226g","0,674g","0,278g",99mg,"20,03g",0g,0g,0g,600mg,321mg
+178,Kepiting Panggang,Ikan & Seafood,100 gram (g),136 kkal,"6,24g","1,073g","1,98g","2,426g",94mg,"18,91g","0,11g",0g,0g,539mg,304mg
+179,Kepiting Kalengan,Ikan & Seafood,100 gram (g),99 kkal,"1,23g","0,252g","0,44g","0,218g",89mg,"20,52g",0g,0g,0g,333mg,374mg
+180,Kerang,Ikan & Seafood,100 gram (g),217 kkal,"10,96g","2,216g","3,36g","4,415g",54mg,"18,14g","10,49g","0,5g","0,82g",487mg,337mg
+181,Kerang (Spesies Campuran),Ikan & Seafood,100 gram (g),88 kkal,"0,76g","0,079g","0,261g","0,037g",33mg,"16,78g","2,36g",0g,0g,161mg,322mg
+182,Kerang Panggang,Ikan & Seafood,100 gram (g),132 kkal,"3,86g","0,649g","1,179g","1,438g",40mg,"20,22g","2,92g",0g,0g,527mg,389mg
+183,Kerang Kukus atau Rebus,Ikan & Seafood,100 gram (g),106 kkal,"3,09g","0,519g","0,943g","1,15g",32mg,"16,18g","2,33g",0g,0g,422mg,280mg
+184,Lobster,Ikan & Seafood,"1 kecil (berat hidup 450 g) (hasil setelah dimasak, kulit dihilangkan)",114 kkal,"0,68g","0,125g","0,106g","0,187g",84mg,"23,99g","1,5g",0g,0g,826mg,412mg
+185,Lobster Kukus atau Rebus,Ikan & Seafood,"1 kecil (berat hidup 450 g) (hasil setelah dimasak, kulit dihilangkan)",114 kkal,"0,68g","0,125g","0,106g","0,187g",84mg,"23,99g","1,5g",0g,0g,826mg,412mg
+186,Lobster Panggang,Ikan & Seafood,"1 kecil (berat hidup 450 g) (hasil setelah dimasak, kulit dihilangkan)",137 kkal,"3,55g","1,947g","0,211g","0,929g",90mg,"23,34g","1,46g",0g,0g,743mg,401mg
+187,Udang (Karang) Rebus atau Kukus,Ikan & Seafood,100 gram (g),81 kkal,"1,19g","0,179g","0,364g","0,242g",132mg,"16,63g",0g,0g,0g,416mg,294mg
+188,Dimasak Hidup-hidup,Ikan & Seafood,100 gram (g),133 kkal,"4,24g","0,867g","1,222g","1,621g",56mg,22g,"0,41g",0g,"0,09g",417mg,427mg
+189,Dipanggang Hidup-hidup,Ikan & Seafood,100 gram (g),133 kkal,"4,24g","0,867g","1,222g","1,621g",56mg,22g,"0,41g",0g,"0,09g",417mg,427mg
+190,Tiram,Ikan & Seafood,100 gram (g),68 kkal,"2,46g","0,772g","0,968g","0,314g",53mg,"7,05g","3,91g",0g,0g,211mg,156mg
+191,Udang,Ikan & Seafood,100 gram (g),144 kkal,"2,35g","0,446g","0,909g","0,344g",206mg,"27,59g","1,24g",0g,0g,613mg,176mg
+192,Udang Panggang,Ikan & Seafood,100 gram (g),154 kkal,"5,03g","0,949g","1,671g","1,698g",183mg,"24,47g","1,17g",0g,0g,512mg,224mg
+193,Udang Kukus atau Rebus,Ikan & Seafood,100 gram (g),138 kkal,"2,26g","0,428g","0,873g","0,33g",198mg,"26,5g","1,19g",0g,0g,589mg,169mg
+194,Udang Scampi,Ikan & Seafood,100 gram (g),212 kkal,"15,83g","9,475g","1,112g","3,903g",245mg,"16,87g","0,01g",0g,"0,01g",741mg,70mg
+195,Udang (Karang) Rebus atau Kukus,Ikan & Seafood,100 gram (g),81 kkal,"1,19g","0,179g","0,364g","0,242g",132mg,"16,63g",0g,0g,0g,416mg,294mg
+196,Buncis,Kacang Kacangan,100 gram (g),31 kkal,"0,12g","0,026g","0,059g","0,005g",0mg,"1,82g","7,13g","3,4g","1,4g",6mg,209mg
+197,Kacang Panjang Hijau,Kacang Kacangan,100 gram (g),31 kkal,"0,12g","0,026g","0,059g","0,005g",0mg,"1,82g","7,13g","3,4g","1,4g",6mg,209mg
+198,Buncis,Kacang Kacangan,100 gram (g),31 kkal,"0,12g","0,026g","0,059g","0,005g",0mg,"1,82g","7,13g","3,4g","1,4g",6mg,209mg
+199,Kacang Merah (Kalengan),Kacang Kacangan,100 gram (g),85 kkal,"0,34g","0,05g","0,189g","0,027g",0mg,"5,25g","15,59g","6,4g","0,22g",341mg,257mg
+200,Kacang Panjang Hijau,Kacang Kacangan,100 gram (g),31 kkal,"0,12g","0,026g","0,059g","0,005g",0mg,"1,82g","7,13g","3,4g","1,4g",6mg,209mg
+201,"Kacang Belang (Biji Matang, Kalengan)",Kacang Kacangan,100 gram (g),86 kkal,"0,81g","0,167g","0,289g","0,162g",0mg,"4,86g","15,25g","4,6g","0,22g",294mg,243mg
+202,Kacang Belang (Biji Matang),Kacang Kacangan,100 gram (g),347 kkal,"1,23g","0,235g","0,407g","0,229g",0mg,"21,42g","62,55g","15,5g","2,11g",12mg,1393mg
+203,Kacang Merah (Kalengan),Kacang Kacangan,100 gram (g),85 kkal,"0,34g","0,05g","0,189g","0,027g",0mg,"5,25g","15,59g","6,4g","0,22g",341mg,257mg
+204,"Kacang Merah (tanpa Garam, Dimasak, Direbus)",Kacang Kacangan,100 gram (g),127 kkal,"0,5g","0,072g","0,275g","0,039g",0mg,"8,67g","22,8g","6,4g","0,32g",1mg,405mg
+205,Kacang Panggang Vegetarian,Kacang Kacangan,100 gram (g),94 kkal,"0,37g","0,088g","0,133g","0,083g",0mg,"4,75g","21,14g","4,1g","9,04g",337mg,217mg
+206,Kacang Panggang Boston,Kacang Kacangan,100 gram (g),155 kkal,"5,06g","1,792g","0,671g","2,325g",5mg,"6,04g","22,04g","3,9g","6,4g",454mg,422mg
+207,Tahu Goreng,Kacang Kacangan,1 buah,35 kkal,"2,62g","0,379g","1,481g","0,579g",0mg,"2,23g","1,36g","0,5g","0,35g",2mg,19mg
+208,Keju Cheddar,Susu,100 gram (g),403 kkal,"33,14g","21,092g","0,942g","9,391g",105mg,"24,9g","1,28g",0g,"0,52g",621mg,98mg
+209,Keju Colby Jack,Susu,1 iris (28 g),109 kkal,"8,85g","5,569g","0,263g","2,556g",26mg,"6,84g","0,46g",0g,"0,14g",162mg,29mg
+210,Keju Amerika,Susu,1 iris (28 g),96 kkal,"7,39g","4,417g","0,31g","2,115g",23mg,"5,37g","1,97g",0g,"1,83g",368mg,77mg
+211,Keju Cheddar atau Colby Rendah Lemak,Susu,1 iris (28 g),49 kkal,"1,98g","1,231g","0,063g","0,59g",6mg,"6,9g","0,54g",0g,"0,15g",174mg,19mg
+212,Keju Provolone,Susu,1 iris (28 g),98 kkal,"7,45g","4,782g","0,215g","2,07g",19mg,"7,16g","0,6g",0g,"0,16g",245mg,39mg
+213,Keju Parmesan (Parut),Susu,1 sdm,22 kkal,"1,43g","0,865g","0,059g","0,419g",4mg,"1,92g","0,2g",0g,"0,04g",76mg,6mg
+214,Keju Parmesan Parut Kering,Susu,1 sdm,22 kkal,"1,43g","0,865g","0,059g","0,419g",4mg,"1,92g","0,2g",0g,"0,04g",76mg,6mg
+215,Keju Parmesan Keras,Susu,100 gram (g),392 kkal,"25,83g","16,41g","0,569g","7,515g",68mg,"35,75g","3,22g",0g,"0,8g",1602mg,92mg
+216,Keju Krim,Susu,1 sdm,51 kkal,"5,06g","3,185g","0,183g","1,427g",16mg,"1,09g","0,39g",0g,"0,03g",43mg,17mg
+217,Keju Krim Proses tanpa atau Bebas Lemak,Susu,1 sdm,15 kkal,"0,21g","0,14g","0,009g","0,052g",1mg,"2,25g","0,9g",0g,"0,06g",85mg,25mg
+218,Keju Krim (Rendah Lemak),Susu,1 sdm,35 kkal,"2,64g","1,663g","0,095g","0,745g",8mg,"1,59g","1,05g",0g,"0,03g",44mg,25mg
+219,Keju Krim,Susu,1 sdm,51 kkal,"5,06g","3,185g","0,183g","1,427g",16mg,"1,09g","0,39g",0g,"0,03g",43mg,17mg
+220,Keju Krim Proses tanpa atau Bebas Lemak,Susu,1 sdm,15 kkal,"0,21g","0,14g","0,009g","0,052g",1mg,"2,25g","0,9g",0g,"0,06g",85mg,25mg
+221,Keju Krim (Rendah Lemak),Susu,1 sdm,35 kkal,"2,64g","1,663g","0,095g","0,745g",8mg,"1,59g","1,05g",0g,"0,03g",44mg,25mg
+222,Margarin,Susu,1 sdm,75 kkal,"8,46g","1,436g","3,53g","2,905g",0mg,"0,09g",0g,0g,0g,112mg,4mg
+223,"Margarin (Minyak Nabati, 20% Lemak )",Susu,1 sdm,26 kkal,"2,92g","0,43g","1,206g","1,122g",0mg,0g,"0,06g",0g,0g,110mg,4mg
+224,Mentega,Susu,1 sdm,102 kkal,"11,52g","7,294g","0,432g","2,985g",31mg,"0,12g","0,01g",0g,"0,01g",2mg,3mg
+225,Mentega (Asin),Susu,1 sdm,102 kkal,"11,52g","7,294g","0,432g","2,985g",31mg,"0,12g","0,01g",0g,"0,01g",82mg,3mg
+226,Mentega Dikocok (Asin),Susu,1 sdm,67 kkal,"7,62g","4,746g","0,283g","2,202g",21mg,"0,08g","0,01g",0g,"0,01g",78mg,2mg
+227,Susu,Susu,1 gelas,122 kkal,"4,88g","2,965g","0,249g","1,301g",17mg,"8,03g","11,49g",0g,"12,59g",100mg,361mg
+228,Susu Murni,Susu,100 ml,62 kkal,"3,35g","1,923g","0,201g","0,837g",10mg,"3,32g","4,66g",0g,"5,42g",41mg,147mg
+229,1% Lemak Susu,Susu,1 gelas,102 kkal,"2,37g","1,545g","0,085g","0,676g",12mg,"8,22g","12,18g",0g,"12,69g",107mg,366mg
+230,2% Lemak Susu,Susu,100 gram (g),50 kkal,"1,97g","1,257g","0,073g","0,56g",8mg,"3,3g","4,68g",0g,"5,06g",41mg,150mg
+231,Susu (tanpa Lemak),Susu,1 gelas,86 kkal,"0,44g","0,287g","0,017g","0,115g",5mg,"8,35g","11,88g",0g,"12,47g",127mg,407mg
+232,Susu (tanpa Lemak),Susu,1 gelas,86 kkal,"0,44g","0,287g","0,017g","0,115g",5mg,"8,35g","11,88g",0g,"12,47g",127mg,407mg
+233,1% Lemak Susu,Susu,1 gelas,102 kkal,"2,37g","1,545g","0,085g","0,676g",12mg,"8,22g","12,18g",0g,"12,69g",107mg,366mg
+234,2% Lemak Susu,Susu,100 gram (g),50 kkal,"1,97g","1,257g","0,073g","0,56g",8mg,"3,3g","4,68g",0g,"5,06g",41mg,150mg
+235,Susu Rendah Lemak,Susu,1 mangkok,102 kkal,"2,37g","1,545g","0,085g","0,676g",12mg,"8,22g","12,18g",0g,"12,69g",107mg,366mg
+236,Susu dengan Lemak yang telah Dikurangi,Susu,1 gelas,122 kkal,"4,81g","3,067g","0,178g","1,366g",20mg,"8,05g","11,42g",0g,"12,35g",100mg,366mg
+237,Yogurt Polos,Susu,100 gram (g),63 kkal,"1,55g",1g,"0,044g","0,426g",6mg,"5,25g","7,04g",0g,"7,04g",70mg,234mg
+238,Yogurt Polos Rendah Lemak,Susu,100 gram (g),63 kkal,"1,55g",1g,"0,044g","0,426g",6mg,"5,25g","7,04g",0g,"7,04g",70mg,234mg
+239,Yogurt Polos tanpa Lemak,Susu,100 gram (g),56 kkal,"0,18g","0,116g","0,005g","0,049g",2mg,"5,73g","7,68g",0g,"7,68g",77mg,255mg
+240,Yoghurt Vanila (Rendah Lemak),Susu,1 mangkok (240 ml),208 kkal,"3,06g","1,975g","0,088g","0,84g",12mg,"12,08g","33,81g",0g,"33,81g",162mg,537mg
+241,Yogurt Polos (Rendah Lemak ),Susu,100 gram (g),63 kkal,"1,55g",1g,"0,044g","0,426g",6mg,"5,25g","7,04g",0g,"7,04g",70mg,234mg
+242,Makaroni,Karbohidrat,100 gram (g),157 kkal,"0,92g","0,175g","0,317g","0,13g",0mg,"5,76g","30,68g","1,8g","0,56g",232mg,45mg
+243,Makaroni Gandum,Karbohidrat,100 gram (g),123 kkal,"0,54g","0,098g","0,212g","0,075g",0mg,"5,3g","26,38g","2,8g","0,8g",234mg,44mg
+244,Makaroni atau Mie dengan Keju,Karbohidrat,1 mangkok,493 kkal,"22,84g","9,625g","3,579g","7,849g",41mg,"19,29g","52,15g","2,7g","8,72g",953mg,328mg
+245,Makaroni atau Mie dengan Keju,Karbohidrat,1 mangkok,493 kkal,"22,84g","9,625g","3,579g","7,849g",41mg,"19,29g","52,15g","2,7g","8,72g",953mg,328mg
+246,Makaroni atau Mie dengan Keju (Campuran Ditumbuk dengan Saus Keju),Karbohidrat,1 mangkok,386 kkal,"11,59g","6,619g","0,909g","2,873g",26mg,"15,28g","54,29g",3g,"2,45g",786mg,132mg
+247,Makanan Pembuka Makaroni dan Keju (Kalengan),Karbohidrat,1 porsi,200 kkal,6g,"2,15g","0,739g","1,464g",15mg,"8,25g","28,11g","1,2g","1,22g",1027mg,205mg
+248,Makaroni atau Mie dengan Keju (Campuran Kering),Karbohidrat,100 gram (g),219 kkal,"10,06g","2,503g","2,658g","4,223g",4mg,"6,25g","25,74g","1,4g","2,76g",365mg,87mg
+249,Makaroni Krim dengan Keju,Karbohidrat,100 gram (g),208 kkal,"8,59g","3,693g","1,311g","2,937g",16mg,"8,13g","24,09g","1,4g","0,52g",167mg,61mg
+250,Mie,Karbohidrat,100 gram (g),137 kkal,"2,06g","0,417g","0,549g","0,578g",29mg,"4,51g","25,01g","1,2g","0,4g",236mg,38mg
+251,"Mie Telur (Ditambah, Masak)",Karbohidrat,100 gram (g),138 kkal,"2,07g","0,419g","0,021g","0,552g","0,581g","4,54g","25,16g",29mg,"1,2g","0,4g",5mg
+252,Mie Gandum,Karbohidrat,100 gram (g),120 kkal,"1,37g","0,343g","0,36g","0,363g",32mg,"5,31g","23,49g","3,9g","0,19g",158mg,140mg
+253,Mie Cina Chow Mein,Karbohidrat,1 mangkok,237 kkal,"13,84g","1,973g","7,799g","3,46g",0mg,"3,77g","25,89g","1,8g","0,12g",198mg,54mg
+254,Nasi Putih Instan,Karbohidrat,"1 mangkok,masak",191 kkal,"0,83g","0,028g","0,028g","0,121g",0mg,"3,56g","41,04g",1g,0g,582mg,15mg
+255,Nasi Putih,Karbohidrat,100 gram (g),129 kkal,"0,28g","0,076g","0,075g","0,087g",0mg,"2,66g","27,9g","0,4g","0,05g",365mg,35mg
+256,Nasi Merah,Karbohidrat,100 gram (g),110 kkal,"0,89g","0,179g","0,321g","0,325g",0mg,"2,56g","22,78g","1,8g","0,35g",301mg,43mg
+257,Nasi Goreng,Karbohidrat,100 gram (g),168 kkal,"6,23g","1,137g","2,699g","1,907g",52mg,"6,3g","21,06g","0,7g","0,76g",415mg,102mg
+258,Nasi Goreng Ayam,Karbohidrat,1 mangkok,329 kkal,"11,96g","2,435g","3,372g","5,201g",105mg,"12,45g","41,82g","1,4g","1,39g",598mg,248mg
+259,Nasi Goreng tanpa Daging,Karbohidrat,100 gram (g),151 kkal,"5,48g","0,926g","2,519g","1,615g",44mg,"4,23g","20,97g",1g,"1,12g",425mg,93mg
+260,Nasi Goreng Babi,Karbohidrat,1 mangkok,335 kkal,"12,87g","2,802g","3,376g","5,659g",103mg,"11,94g","41,94g","1,4g","1,41g",598mg,271mg
+261,Nasi Goreng Udang,Karbohidrat,1 mangkok,321 kkal,"11,6g","1,956g","5,348g","3,4g",127mg,"10,95g","41,88g","1,4g","1,5g",925mg,164mg
+262,Nasi Merah,Karbohidrat,100 gram (g),110 kkal,"0,89g","0,179g","0,321g","0,325g",0mg,"2,56g","22,78g","1,8g","0,35g",301mg,43mg
+263,Nasi Merah Instan,Karbohidrat,"1 mangkok,masak",233 kkal,"1,89g","0,38g","0,681g","0,689g",0mg,"5,43g","48,29g","3,8g","0,74g",638mg,91mg
+264,"Nasi Merah (Butir-Panjang, Dimasak)",Karbohidrat,100 gram (g),111 kkal,"0,9g","0,18g","0,323g","0,327g",0mg,"2,58g","22,96g","1,8g","0,35g",5mg,43mg
+265,Nasi Putih,Karbohidrat,100 gram (g),129 kkal,"0,28g","0,076g","0,075g","0,087g",0mg,"2,66g","27,9g","0,4g","0,05g",365mg,35mg
+266,Nasi Putih Instan,Karbohidrat,"1 mangkok,masak",191 kkal,"0,83g","0,028g","0,028g","0,121g",0mg,"3,56g","41,04g",1g,0g,582mg,15mg
+267,"Nasi Putih (Butir-Panjang, Dimasak)",Karbohidrat,100 gram (g),130 kkal,"0,28g","0,077g","0,076g","0,088g",0mg,"2,69g","28,17g","0,4g","0,05g",1mg,35mg
+268,Spageti,Karbohidrat,100 gram (g),157 kkal,"0,92g","0,175g","0,317g","0,13g",0mg,"5,76g","30,68g","1,8g","0,56g",232mg,45mg
+269,Pasta dengan Saus Daging,Karbohidrat,1 mangkok,329 kkal,"13,06g","4,34g","1,339g","5,638g",51mg,"20,22g","33,33g","3,8g","8,47g",1887mg,811mg
+270,Pasta tanpa Daging dengan Saus Tomat,Karbohidrat,1 mangkok,206 kkal,"1,17g","0,221g","0,424g","0,171g",0mg,"7,56g","41,56g","3,5g","6,35g",412mg,355mg
+271,Spageti Gandum,Karbohidrat,100 gram (g),123 kkal,"0,54g","0,098g","0,212g","0,075g",0mg,"5,3g","26,38g","4,5g","0,8g",234mg,44mg
+272,Makaroni,Karbohidrat,100 gram (g),157 kkal,"0,92g","0,175g","0,317g","0,13g",0mg,"5,76g","30,68g","1,8g","0,56g",232mg,45mg
+273,Kaldu Sapi,Sup,1 gelas (240 ml),7 kkal,"0,19g","0,096g",0g,"0,072g",0mg,"0,84g","0,8g",0g,"0,63g",1157mg,19mg
+274,Kaldu Jamur,Sup,100 gram (g),7 kkal,"0,01g",0g,0g,0g,0mg,"0,87g","0,83g",0g,"0,45g",1325mg,23mg
+275,Sayuran Rebus (tanpa Daging),Sup,100 gram (g),56 kkal,"0,97g","0,443g","0,081g","0,362g",1mg,"2,65g","9,73g","1,7g","1,93g",226mg,220mg
+276,Daging Sapi Rebus dengan Kentang dan Sayuran dalam Saus Tomat,Sup,1 mangkok,207 kkal,"5,75g","1,502g","1,444g","2,142g",33mg,"16,63g","21,9g",3g,"2,77g",547mg,630mg
+277,Sup Tomat,Sup,1 mangkok,102 kkal,"2,93g","0,988g","0,988g","0,727g",5mg,"3,05g","17,93g",1g,"10,54g",705mg,307mg
+278,"Sayur Sup (Kalengan, Terkondensasi)",Sup,1 mangkok,145 kkal,"3,89g","0,59g","1,451g","1,673g",0mg,"4,23g","24,06g","1,2g","7,7g",1653mg,421mg
+279,Sup Mie Ayam,Sup,1 mangkok,65 kkal,"2,39g","0,658g","0,663g","1,048g",14mg,"3,18g","7,4g",0g,"1,06g",868mg,53mg
+280,Sup Miso,Sup,1 mangkok,84 kkal,"3,36g","0,622g","1,394g","1,085g",0mg,"6,02g","7,78g","1,9g","2,59g",998mg,367mg
+281,Sup Ayam,Sup,1 mangkok,75 kkal,"2,46g","0,651g","0,554g","1,109g",7mg,"4,05g","9,35g","0,7g","0,27g",1106mg,55mg
+282,Sup Ayam,Sup,1 mangkok,75 kkal,"2,46g","0,651g","0,554g","1,109g",7mg,"4,05g","9,35g","0,7g","0,27g",1106mg,55mg
+283,Sup Mie Ayam,Sup,1 mangkok,65 kkal,"2,39g","0,658g","0,663g","1,048g",14mg,"3,18g","7,4g",0g,"1,06g",868mg,53mg
+284,Sup Nasi Ayam,Sup,1 mangkok,60 kkal,"1,9g","0,453g","0,417g","0,906g",7mg,"3,54g","7,16g","0,7g","0,19g",817mg,101mg
+285,Sup Ayam Kental (Kalengan),Sup,1 mangkok,170 kkal,"6,34g","1,896g","1,32g","2,832g",29mg,"12,14g","16,51g","1,4g","2,09g",850mg,168mg
+286,"Sup Ayam (dan) Sayur (dengan Volume Air yang Sama, Kalengan)",Sup,1 gelas (240 ml),75 kkal,"2,84g","0,844g","0,602g","1,277g",10mg,"3,62g","8,58g",1g,"1,3g",945mg,154mg
+287,Sup Mie Ayam,Sup,1 mangkok,65 kkal,"2,39g","0,658g","0,663g","1,048g",14mg,"3,18g","7,4g",0g,"1,06g",868mg,53mg
+288,Sup Mie Daging Sapi,Sup,1 mangkok,83 kkal,"3,07g","1,142g","0,49g","1,242g",5mg,"4,83g","8,98g","0,7g","2,59g",954mg,100mg
+289,Sup Mie Instan,Sup,1 mangkok,46 kkal,"0,84g","0,262g","0,177g","0,322g",7mg,"2,16g","7,32g","0,5g","0,43g",758mg,60mg
+290,Daging Sapi Gaya Oriental dan Sup Beras ( Pho Bo Vietnam),Sup,1 mangkok,176 kkal,"3,86g","1,403g","0,239g","1,584g",39mg,"17,35g","16,81g",1g,"1,05g",669mg,305mg
+291,Sup Tomat,Sup,1 mangkok,102 kkal,"2,93g","0,988g","0,988g","0,727g",5mg,"3,05g","17,93g",1g,"10,54g",705mg,307mg
+292,"Sup Tomat (Kalengan, Terkondensasi)",Sup,1 mangkok,151 kkal,"1,41g","0,688g","0,896g","0,846g",0mg,"4,04g","33,66g",3g,"20,36g",1383mg,575mg
+293,Krim Sup Tomat (Disiapkan dengan Susu),Sup,1 mangkok,136 kkal,"3,15g","1,83g","0,573g","1,076g",10mg,"6,05g","22,62g","1,5g","16,49g",742mg,469mg
+294,Sup Tomat (Disiapkan dengan Air),Sup,1 mangkok,76 kkal,"0,71g","0,344g","0,449g","0,422g",0mg,"2,03g","16,84g","1,5g","10,17g",693mg,288mg
+295,Kuning Telur,Telur,100 gram (g),322 kkal,"26,54g","9,551g","4,204g","11,738g",1234mg,"15,86g","3,59g",0g,"0,56g",48mg,109mg
+296,Kuning Telur Matang,Telur,1 besar,55 kkal,"4,49g","1,617g","0,712g","1,988g",209mg,"2,69g","0,61g",0g,"0,1g",34mg,19mg
+297,Telur Orak-Arik,Telur,2 telur,199 kkal,"15,21g","5,784g","1,851g","5,536g",400mg,"13,01g","1,96g",0g,"1,43g",211mg,138mg
+298,"Telur Orak-Arik (Utuh, Dimasak)",Telur,1 besar,101 kkal,"7,45g","2,244g","1,31g","2,908g",215mg,"6,76g","1,34g",0g,"1,06g",171mg,84mg
+299,Telur Dadar atau Telur Orak-Arik,Telur,1 besar,98 kkal,"7,14g","2,086g","1,243g","2,867g",213mg,"6,81g","1,15g",0g,"1,17g",247mg,91mg
+300,Telur Dadar atau Telur Orak-Arik dengan Keju,Telur,1 besar,140 kkal,"10,37g","4,131g","1,333g","3,751g",213mg,"9,15g","2,23g",0g,"2,21g",411mg,129mg
+301,Telur Dadar atau Telur Orak-Arik dengan Jamur,Telur,1 besar,91 kkal,"6,34g","1,869g","1,104g","2,514g",185mg,"6,37g","2,05g","0,4g","1,6g",289mg,107mg
+302,Putih Telur,Telur,100 gram (g),52 kkal,"0,17g",0g,0g,0g,0mg,"10,9g","0,73g",0g,"0,71g",166mg,163mg
+303,Pengganti Telur (Cair),Telur,100 gram (g),84 kkal,"3,31g","0,659g","1,603g","0,896g",1mg,12g,"0,64g",0g,"0,64g",177mg,330mg
+304,Putih Telur Matang,Telur,1 besar,17 kkal,"0,06g",0g,0g,0g,0mg,"3,58g","0,24g",0g,"0,23g",106mg,53mg
+305,Telur,Telur,1 besar,74 kkal,"4,97g","1,55g","0,682g","1,905g",212mg,"6,29g","0,38g",0g,"0,38g",70mg,67mg
+306,Putih Telur,Telur,100 gram (g),52 kkal,"0,17g",0g,0g,0g,0mg,"10,9g","0,73g",0g,"0,71g",166mg,163mg
+307,Telur Rebus,Telur,1 besar,77 kkal,"5,28g","1,627g","0,704g","2,03g",211mg,"6,26g","0,56g",0g,"0,56g",139mg,63mg
+308,"Telur Orak-Arik (Utuh, Dimasak)",Telur,1 besar,101 kkal,"7,45g","2,244g","1,31g","2,908g",215mg,"6,76g","1,34g",0g,"1,06g",171mg,84mg
+309,Telur Ceplok,Telur,1 besar,92 kkal,"7,04g","1,975g","1,224g","2,919g",210mg,"6,27g","0,4g",0g,"0,38g",94mg,68mg
+310,Telur Dadar,Telur,1 besar,93 kkal,"7,33g","2,053g","1,279g","3,044g",217mg,"6,48g","0,42g",0g,"0,4g",98mg,70mg
+311,Telur Dadar atau Telur Orak-Arik,Telur,1 besar,98 kkal,"7,14g","2,086g","1,243g","2,867g",213mg,"6,81g","1,15g",0g,"1,17g",247mg,91mg
+312,Telur Dadar atau Telur Orak-Arik dengan Keju,Telur,1 besar,140 kkal,"10,37g","4,131g","1,333g","3,751g",213mg,"9,15g","2,23g",0g,"2,21g",411mg,129mg
+313,Telur Dadar atau Telur Orak-Arik dengan Sayuran,Telur,1 besar,106 kkal,"7,34g","2,169g","1,274g","2,925g",216mg,"7,22g","2,38g","0,3g","1,86g",280mg,117mg
+314,Telur Dadar atau Telur Orak-Arik dengan Sosis,Telur,1 sedang,181 kkal,"14,26g","4,329g","2,26g","6,005g",215mg,"11,13g","1,29g",0g,"1,31g",322mg,161mg
+315,Telur Goreng,Telur,1 besar,89 kkal,"6,76g","1,88g","1,214g","2,754g",210mg,"6,24g","0,43g",0g,"0,38g",238mg,67mg
+316,Telur Goreng tanpa Lemak,Telur,1 besar,73 kkal,"4,93g","1,537g","0,677g","1,89g",210mg,"6,24g","0,38g",0g,"0,38g",223mg,66mg
+317,Telur Ceplok,Telur,1 besar,92 kkal,"7,04g","1,975g","1,224g","2,919g",210mg,"6,27g","0,4g",0g,"0,38g",94mg,68mg
+318,Telur Rebus,Telur,1 besar,77 kkal,"5,28g","1,627g","0,704g","2,03g",211mg,"6,26g","0,56g",0g,"0,56g",139mg,63mg
+319,Telur Rebus Lunak,Telur,1 sedang,68 kkal,"4,65g","1,432g","0,62g","1,787g",186mg,"5,51g","0,49g",0g,"0,49g",122mg,55mg
+320,Acar,Sayur,1 sedang,12 kkal,"0,12g","0,031g","0,05g","0,002g",0mg,"0,4g","2,68g","0,8g","2,28g",833mg,75mg
+321,Acar Mentimun Manis,Sayur,100 gram (g),117 kkal,"0,26g","0,066g","0,106g","0,004g",0mg,"0,37g","31,81g","1,1g","14,63g",939mg,32mg
+322,Acar Mentimun Asam,Sayur,100 gram (g),11 kkal,"0,2g","0,052g","0,082g","0,003g",0mg,"0,33g","2,26g","1,2g","1,06g",1208mg,23mg
+323,Bawang,Sayur,100 gram (g),42 kkal,"0,08g","0,026g","0,062g","0,023g",0mg,"0,92g","10,11g","1,4g","4,28g",3mg,144mg
+324,Bawang Merah,Sayur,100 gram (g),42 kkal,"0,08g","0,026g","0,062g","0,023g",0mg,"0,92g","10,11g","1,4g","4,28g",3mg,144mg
+325,Daun Bawang (Loncang),Sayur,100 gram (g),32 kkal,"0,19g","0,032g","0,074g","0,027g",0mg,"1,83g","7,34g","2,6g","2,33g",16mg,276mg
+326,Bawang Hijau Muda,Sayur,100 gram (g),32 kkal,"0,19g","0,032g","0,074g","0,027g",0mg,"1,83g","7,34g","2,6g","2,33g",16mg,276mg
+327,Bawang Putih,Sayur,1 siung,4 kkal,"0,02g","0,003g","0,007g",0g,0mg,"0,19g","0,99g","0,1g","0,03g",1mg,12mg
+328,Bawang Putih Cincang,Sayur,1 sdt,5 kkal,"0,03g","0,004g","0,009g",0g,0mg,"0,25g","1,32g","0,1g","0,04g",1mg,16mg
+329,Bawang Putih Dimasak,Sayur,1 siung,3 kkal,"0,01g","0,002g","0,005g",0g,0mg,"0,13g","0,66g",0g,"0,02g",0mg,8mg
+330,Bawang Putih Bubuk,Sayur,1 sdt,9 kkal,"0,02g","0,004g","0,011g",0g,0mg,"0,47g","2,04g","0,3g","0,68g",1mg,31mg
+331,Bayam,Sayur,100 gram (g),23 kkal,"0,39g","0,063g","0,165g","0,01g",0mg,"2,86g","3,63g","2,2g","0,42g",79mg,558mg
+332,"Bayam (Cincang atau Daun, Beku)",Sayur,100 gram (g),31 kkal,"0,75g","0,292g","0,166g",0g,0mg,"3,94g","4,33g","3,1g","0,87g",74mg,372mg
+333,Bayam Bayi/Kecil,Sayur,1 mangkok,7 kkal,"0,12g","0,019g","0,05g","0,003g",0mg,"0,86g","1,09g","0,7g","0,13g",24mg,167mg
+334,"Bayam (Kering Padat, Kaleng)",Sayur,1 mangkok,49 kkal,"1,07g","0,173g","0,447g","0,03g",0mg,"6,01g","7,28g","5,1g","0,86g",58mg,740mg
+335,Bayam Dimasak (dari Segar),Sayur,100 gram (g),40 kkal,"2,25g","0,415g","0,689g","0,949g",0mg,"2,88g","3,68g","2,3g","0,42g",285mg,452mg
+336,Brokoli,Sayur,100 gram (g),34 kkal,"0,37g","0,039g","0,038g","0,011g",0mg,"2,82g","6,64g","2,6g","1,7g",33mg,316mg
+337,Brokoli Dimasak (Lemak tidak Ditambahkan dalam Masakan),Sayur,100 gram (g),35 kkal,"0,41g","0,079g","0,169g","0,04g",0mg,"2,37g","7,14g","3,3g","1,38g",278mg,291mg
+338,Brokoli Cina (Dimasak),Sayur,100 gram (g),22 kkal,"0,72g","0,11g","0,33g","0,05g",0mg,"1,14g","3,81g","2,5g","0,84g",7mg,261mg
+339,"Brokoli (Tusuk, Beku)",Sayur,100 gram (g),29 kkal,"0,34g","0,052g","0,162g","0,024g",0mg,"3,06g","5,35g",3g,"1,47g",17mg,250mg
+340,Daun Bawang,Sayur,100 gram (g),61 kkal,"0,3g","0,04g","0,166g","0,004g",0mg,"1,5g","14,15g","1,8g","3,9g",20mg,180mg
+341,Bawang Bombay Dimasak,Sayur,100 gram (g),94 kkal,4g,"0,735g","1,251g","1,752g",0mg,"1,51g","14,24g","1,8g","3,9g",282mg,163mg
+342,Jagung,Sayur,100 gram (g),86 kkal,"1,18g","0,182g","0,559g","0,347g",0mg,"3,22g","19,02g","2,7g","3,22g",15mg,270mg
+343,Jagung Manis Kuning,Sayur,100 gram (g),86 kkal,"1,18g","0,182g","0,559g","0,347g",0mg,"3,22g","19,02g","2,7g","3,22g",15mg,270mg
+344,Jagung Kecil/Tunas Jagung,Sayur,100 gram (g),81 kkal,1g,"0,154g","0,471g","0,292g",0mg,"2,62g","18,59g",2g,"3,5g",214mg,195mg
+345,"Jagung Manis Kuning (Kernel Utuh, Padat Dikeringkan, Kalengan)",Sayur,100 gram (g),81 kkal,1g,"0,154g","0,471g","0,292g",0mg,"2,62g","18,59g",2g,"3,5g",214mg,195mg
+346,Jamur,Sayur,100 gram (g),22 kkal,"0,34g","0,05g","0,16g",0g,0mg,"3,09g","3,28g",1g,"1,65g",5mg,318mg
+347,"Jamur (Kering Padat, Kaleng)",Sayur,100 gram (g),25 kkal,"0,29g","0,038g","0,113g","0,005g",0mg,"1,87g","5,09g","2,4g","2,2g",425mg,129mg
+348,Potongan-Potongan Jamur dan Batang,Sayur,1 mangkok,15 kkal,"0,24g","0,035g","0,112g",0g,0mg,"2,16g","2,3g","0,7g","1,16g",4mg,223mg
+349,Jamur Portabella,Sayur,100 gram (g),26 kkal,"0,2g","0,026g","0,078g","0,003g",0mg,"2,5g","5,07g","1,5g","1,8g",6mg,484mg
+350,Jamur Tiram,Sayur,100 gram (g),35 kkal,"0,44g","0,02g","0,04g","0,01g",0mg,"3,34g","6,43g","2,4g","1,11g",18mg,420mg
+351,Kacang Hijau,Sayur,100 gram (g),81 kkal,"0,4g","0,071g","0,187g","0,035g",0mg,"5,42g","14,46g","5,1g","5,67g",5mg,244mg
+352,Kacang Polong,Sayur,100 gram (g),42 kkal,"0,2g","0,039g","0,089g","0,021g",0mg,"2,8g","7,55g","2,6g",4g,4mg,200mg
+353,Kacang Hijau (Beku),Sayur,1/2 mangkok,55 kkal,"0,27g","0,048g","0,126g","0,024g",0mg,"3,75g","9,87g",3g,"3,87g",81mg,107mg
+354,Kacang Hijau Dimasak (Kalengan),Sayur,1 mangkok,150 kkal,"4,31g","0,801g","1,365g","1,804g",0mg,"7,54g","21,51g",7g,"7,09g",460mg,296mg
+355,Kembang Kol,Sayur,100 gram (g),25 kkal,"0,1g","0,032g","0,099g","0,014g",0mg,"1,98g","5,3g","2,5g","2,4g",30mg,303mg
+356,Kembang Kol (Beku),Sayur,"1/2 mangkok  (potongan 2,5 cm)",16 kkal,"0,18g","0,027g","0,084g","0,013g",0mg,"1,33g","3,09g","1,5g","1,47g",16mg,127mg
+357,Kembang Kol Dimasak (Lemak tidak Ditambahkan dalam Masakan),Sayur,100 gram (g),22 kkal,"0,37g","0,058g","0,179g","0,026g",0mg,"1,75g","3,96g","2,7g","1,28g",284mg,140mg
+358,"Kembang Kol Dimasak (dari Beku, Lemak tidak Ditambahkan dalam Masakan)",Sayur,1 mangkok,34 kkal,"0,4g","0,06g","0,184g","0,027g",0mg,"2,88g","6,71g","4,9g","1,87g",403mg,248mg
+359,"Kembang Kol Dimasak (dari Segar, Lemak tidak Ditambahkan dalam Masakan)",Sayur,100 gram (g),23 kkal,"0,45g","0,069g","0,215g","0,032g",0mg,"1,83g","4,08g","2,7g","1,4g",313mg,141mg
+360,Kentang Putih (Daging dan Kulit),Sayur,100 gram (g),70 kkal,"0,1g","0,026g","0,042g","0,002g",0mg,"1,68g","15,71g","2,4g","1,15g",6mg,407mg
+361,"Kentang Putih (Daging dan Kulit, Dipanggang)",Sayur,100 gram (g),94 kkal,"0,15g","0,022g","0,037g","0,002g",0mg,"2,1g","21,08g","2,1g","1,53g",7mg,544mg
+362,Kentang Tumbuk,Sayur,100 gram (g),100 kkal,"3,54g","0,791g","0,978g","1,577g",1mg,"1,8g","15,72g","1,3g","1,38g",231mg,260mg
+363,Kentang Panggang,Sayur,100 gram (g),149 kkal,7g,"0,9g","3,442g","2,329g",0mg,"2,32g","20,06g","2,5g","0,9g",101mg,483mg
+364,"Kentang (Daging, dengan Garam, Direbus)",Sayur,100 gram (g),87 kkal,"0,1g","0,026g","0,043g","0,002g",0mg,"1,87g","20,13g",2g,"0,87g",240mg,379mg
+365,Kentang Panggang (Kulit Dimakan),Sayur,100 gram (g),109 kkal,"2,2g","0,423g","0,664g","0,982g",0mg,"2,43g","20,53g","2,1g","1,14g",235mg,519mg
+366,Kentang Panggang (Kulit tidak Dimakan),Sayur,100 gram (g),92 kkal,"0,1g","0,026g","0,043g","0,002g",0mg,"1,95g","21,39g","1,5g","1,69g",287mg,388mg
+367,Kentang Panggang Diisi dengan Krim Asam (Kulit Dimakan),Sayur,1 sedang,316 kkal,16g,"8,255g","1,638g","5,242g",26mg,"6,14g","39,11g","3,8g","2,12g",451mg,1008mg
+368,Kentang Panggang yang Diisi Daging Babi dan Keju (Kulit Dimakan),Sayur,1 sedang,322 kkal,"13,72g","5,843g","1,804g","4,973g",30mg,"11,86g","38,92g","3,8g","4,13g",924mg,1044mg
+369,Kentang Panggang Diisi dengan Keju (Kulit Dimakan),Sayur,1 sedang,288 kkal,"11,09g","4,982g","1,507g","3,809g",23mg,"9,54g","38,9g","3,7g","4,14g",778mg,1008mg
+370,Kentang Tumbuk,Sayur,100 gram (g),100 kkal,"3,54g","0,791g","0,978g","1,577g",1mg,"1,8g","15,72g","1,3g","1,38g",231mg,260mg
+371,Kentang Tumbuk (dari Kentang Segar),Sayur,100 gram (g),122 kkal,"6,96g","1,595g","1,884g","3,12g",3mg,"2,11g","13,22g",1g,"2,24g",392mg,240mg
+372,Kentang Tumbuk (dari Kentang Kering),Sayur,100 gram (g),105 kkal,"5,56g","1,274g","1,506g","2,489g",2mg,"2,02g","12,22g","0,9g","1,87g",326mg,186mg
+373,Kentang Tumbuk (Ditambahkan Susu ),Sayur,100 gram (g),83 kkal,"0,57g","0,253g","0,055g","0,104g",2mg,"1,92g","17,53g","1,5g","1,51g",302mg,298mg
+374,Kentang Tumbuk (Ditambahkan Susu dan Mentega ),Sayur,100 gram (g),113 kkal,"4,22g","2,078g","0,149g","0,16g","0,851g","1,87g","16,77g",11mg,"1,5g","1,43g",317mg
+375,Mentimun (dengan Kulit),Sayur,100 gram (g),15 kkal,"0,11g","0,034g","0,053g","0,003g",0mg,"0,65g","3,63g","0,5g","1,67g",2mg,147mg
+376,Mentimun (Kupas),Sayur,100 gram (g),12 kkal,"0,16g","0,013g","0,003g","0,002g",0mg,"0,59g","2,16g","0,7g","1,38g",2mg,136mg
+377,Acar Mentimun Manis,Sayur,100 gram (g),117 kkal,"0,26g","0,066g","0,106g","0,004g",0mg,"0,37g","31,81g","1,1g","14,63g",939mg,32mg
+378,Acar Mentimun Asam,Sayur,100 gram (g),11 kkal,"0,2g","0,052g","0,082g","0,003g",0mg,"0,33g","2,26g","1,2g","1,06g",1208mg,23mg
+379,Kubis,Sayur,100 gram (g),24 kkal,"0,12g","0,016g","0,06g","0,009g",0mg,"1,44g","5,58g","2,3g","3,58g",18mg,246mg
+380,Kubis Merah,Sayur,100 gram (g),31 kkal,"0,16g","0,034g","0,125g","0,019g",0mg,"1,43g","7,37g","2,1g","3,91g",27mg,243mg
+381,Kubis Hijau,Sayur,100 gram (g),24 kkal,"0,12g","0,016g","0,06g","0,009g",0mg,"1,44g","5,58g","2,3g","3,58g",18mg,246mg
+382,Kubis Savoy,Sayur,"1 mangkok, parut",19 kkal,"0,07g","0,009g","0,034g","0,005g",0mg,"1,4g","4,27g","2,2g","1,59g",20mg,161mg
+383,Kubis Cina,Sayur,100 gram (g),13 kkal,"0,2g","0,026g","0,096g","0,015g",0mg,"1,5g","2,18g",1g,"1,18g",65mg,252mg
+384,Labu,Sayur,100 gram (g),26 kkal,"0,1g","0,052g","0,005g","0,013g",0mg,1g,"6,5g","0,5g","1,36g",1mg,340mg
+385,"Labu (tanpa Garam, Kaleng)",Sayur,1 mangkok,83 kkal,"0,69g","0,358g","0,037g","0,091g",0mg,"2,7g","19,82g","7,1g","8,08g",12mg,505mg
+386,Labu Dimasak,Sayur,100 gram (g),46 kkal,"1,75g","0,42g","0,448g","0,734g",0mg,"1,08g","7,94g","2,8g","3,22g",166mg,202mg
+387,Lobak,Sayur,100 gram (g),28 kkal,"0,1g","0,011g","0,053g","0,006g",0mg,"0,9g","6,43g","1,8g","3,8g",67mg,191mg
+388,Lobak Dimasak,Sayur,100 gram (g),42 kkal,"2,37g","0,438g","0,712g","1,086g",0mg,"0,69g","4,94g","1,9g","2,88g",265mg,171mg
+389,Paprika Hijau,Sayur,100 gram (g),20 kkal,"0,17g","0,058g","0,062g","0,008g",0mg,"0,86g","4,64g","1,7g","2,4g",3mg,175mg
+390,Paprika Jalapeno,Sayur,1 lada/merica,4 kkal,"0,09g","0,009g","0,045g","0,005g",0mg,"0,19g","0,83g","0,4g","0,48g",0mg,30mg
+391,Paprika Hijau Pedas,Sayur,100 gram (g),40 kkal,"0,2g","0,021g","0,109g","0,011g",0mg,2g,"9,46g","1,5g","5,1g",7mg,340mg
+392,"Sayuran Campur (Kering Padatan, Kaleng)",Sayur,1 mangkok,80 kkal,"0,41g","0,083g","0,194g","0,026g",0mg,"4,22g","15,09g","4,9g","3,99g",243mg,474mg
+393,"Sayuran Campur Matang (Jagung, Kacang Lima, Kacang Polong, Kacang Hijau dan Wortel)",Sayur,100 gram (g),81 kkal,"2,12g","0,4g","0,648g","0,941g",0mg,"2,78g","12,74g","4,3g","3,06g",249mg,164mg
+394,"Sayuran Campur (Jagung, Kacang Lima, Kacang Polong, Kacang Hijau, Wortel) (tanpa Tambahan Garam, Kaleng)",Sayur,1 mangkok,67 kkal,"0,36g","0,071g","0,178g","0,04g",0mg,"2,55g","13,3g","5,6g","4,46g",47mg,251mg
+395,Selada,Sayur,100 gram (g),14 kkal,"0,14g","0,018g","0,074g","0,006g",0mg,"0,9g","2,97g","1,2g","1,76g",10mg,141mg
+396,Selada Daun Hijau,Sayur,100 gram (g),15 kkal,"0,15g","0,02g","0,082g","0,006g",0mg,"1,36g","2,79g","1,3g","0,78g",28mg,194mg
+397,Salad Sayuran Hijau Campur,Sayur,"1 mangkok, parut atau cincang",9 kkal,"0,13g","0,021g","0,063g","0,004g",0mg,"0,84g","1,76g","1,1g","0,48g",16mg,160mg
+398,Selada Arugula,Sayur,100 gram (g),25 kkal,"0,66g","0,086g","0,319g","0,049g",0mg,"2,58g","3,65g","1,6g","2,05g",27mg,369mg
+399,Selada Gunung Es (Termasuk Jenis Crisphead),Sayur,100 gram (g),14 kkal,"0,14g","0,018g","0,074g","0,006g",0mg,"0,9g","2,97g","1,2g","1,76g",10mg,141mg
+400,Seledri,Sayur,100 gram (g),14 kkal,"0,17g","0,043g","0,081g","0,032g",0mg,"0,69g","2,97g","1,6g","1,83g",80mg,260mg
+401,Seledri Dimasak,Sayur,100 gram (g),39 kkal,"2,54g","0,486g","0,77g","1,153g",0mg,"0,81g","3,93g","1,5g","2,29g",307mg,275mg
+402,Terung,Sayur,100 gram (g),24 kkal,"0,19g","0,034g","0,076g","0,016g",0mg,"1,01g","5,7g","3,4g","2,35g",2mg,230mg
+403,Terung Dimasak,Sayur,100 gram (g),65 kkal,"3,85g","0,723g","1,153g","1,735g",0mg,"0,79g","8,31g","2,4g","3,02g",488mg,117mg
+404,Terong Goreng,Sayur,100 gram (g),148 kkal,"10,75g","2,118g","3,465g","4,569g",16mg,"2,4g","11,58g","3,1g","2,41g",62mg,222mg
+405,Tomat,Sayur,100 gram (g),18 kkal,"0,2g","0,046g","0,135g","0,051g",0mg,"0,88g","3,92g","1,2g","2,63g",5mg,237mg
+406,Tomat Merah,Sayur,"1 utuh sedang (diameter 6,5 cm)",22 kkal,"0,25g","0,057g","0,166g","0,063g",0mg,"1,08g","4,82g","1,5g","3,23g",6mg,292mg
+407,Tomat Merah (Kaleng),Sayur,1 mangkok,41 kkal,"0,31g","0,043g","0,13g","0,05g",0mg,"1,92g","9,38g","2,2g","6,14g",307mg,451mg
+408,Tomat Ceri,Sayur,100 gram (g),18 kkal,"0,2g","0,046g","0,135g","0,051g",0mg,"0,88g","3,92g","1,2g","2,63g",5mg,237mg
+409,Ubi Jalar (Manis),Sayur,100 gram (g),86 kkal,"0,05g","0,018g","0,014g","0,001g",0mg,"1,57g","20,12g",3g,"4,18g",55mg,337mg
+410,"Ubi Jalar (tanpa Kulit, Dimasak, Direbus)",Sayur,100 gram (g),76 kkal,"0,14g","0,04g","0,08g",0g,0mg,"1,37g","17,72g","2,5g","5,74g",27mg,230mg
+411,"Ubi Jalar (tanpa Garam, Dipanggang dengan Kulitnya, Dimasak)",Sayur,100 gram (g),90 kkal,"0,15g","0,052g","0,096g","0,002g",0mg,"2,01g","20,71g","3,3g","8,44g",36mg,475mg
+412,"Ubi Jalar/Manis (Tumbuk, Kaleng)",Sayur,100 gram (g),101 kkal,"0,2g","0,041g","0,084g","0,008g",0mg,"1,98g","23,19g","1,7g","5,45g",75mg,210mg
+413,Ubi Rambat,Sayur,100 gram (g),118 kkal,"0,17g","0,037g","0,076g","0,006g",0mg,"1,53g","27,88g","4,1g","0,5g",9mg,816mg
+414,"Ubi Jalar (dengan Garam, Dikeringkan, Dimasak, Direbus)",Sayur,100 gram (g),116 kkal,"0,14g","0,029g","0,06g","0,005g",0mg,"1,49g","27,58g","3,9g","0,49g",244mg,670mg
+415,"Ubi Rambat (tanpa Garam, Dikeringkan, Dimasak, Direbus, Dipanggang)",Sayur,100 gram (g),116 kkal,"0,14g","0,029g","0,06g","0,005g",0mg,"1,49g","27,58g","3,9g","0,49g",8mg,670mg
+416,Wortel,Sayur,100 gram (g),41 kkal,"0,24g","0,037g",0g,"0,117g","0,014g","0,93g","9,58g",0mg,"2,8g","4,54g",69mg
+417,Wortel Bayi,Sayur,1 sedang,4 kkal,"0,01g","0,002g","0,006g","0,001g",0mg,"0,06g","0,82g","0,2g","0,48g",8mg,24mg
+418,Wortel Dimasak,Sayur,100 gram (g),54 kkal,"2,48g","0,468g","0,778g","1,094g",0mg,"0,74g","7,99g","2,9g","3,33g",306mg,227mg
+419,"Wortel (Padat dan Cair, Kaleng)",Sayur,"1/2 mangkok, irisan",28 kkal,"0,17g","0,031g","0,08g","0,007g",0mg,"0,71g","6,61g","2,2g","3,03g",295mg,213mg
+420,Zaitun,Sayur,100 gram (g),117 kkal,"11,27g","1,493g","0,962g","8,324g",0mg,"0,92g","5,4g","3,1g","0,16g",1083mg,18mg
+421,Zaitun Hitam,Sayur,100 gram (g),105 kkal,"9,54g","1,263g","0,814g","7,043g",0mg,"0,88g","6,06g",3g,0g,880mg,8mg
+422,Zaitun Hijau,Sayur,1 10 porsi kecil,42 kkal,"4,44g","0,588g","0,379g","3,281g",0mg,"0,3g","1,11g",1g,"0,16g",451mg,12mg
+423,Zaitun Hijau Isi,Sayur,1 10 porsi kecil,44 kkal,"4,49g","0,595g","0,39g","3,309g",0mg,"0,35g","1,37g","1,1g","0,3g",456mg,20mg
+424,"Zaitun Hijau (Acar, Kaleng atau Botol)",Sayur,100 gram (g),145 kkal,"15,32g","2,029g","1,307g","11,314g",0mg,"1,03g","3,84g","3,3g","0,54g",1556mg,42mg
+425,Dendeng Sapi,Snack (Makanan Ringan),"1 buah, besar",82 kkal,"5,12g","2,17g","0,202g","2,261g",10mg,"6,64g","2,2g","0,4g","1,8g",443mg,119mg
+426,Keripik Kentang,Snack (Makanan Ringan),100 gram (g),547 kkal,"37,47g","10,96g","12,17g","9,84g",0mg,"6,56g","49,74g","4,4g","4,12g",525mg,1642mg
+427,Keripik Jagung Tawar,Snack (Makanan Ringan),100 gram (g),518 kkal,"28,41g","3,612g","0,634g","14,01g","7,913g","6,03g","63,01g",0mg,"5,3g","1,16g",616mg
+428,Keripik Jagung Tortilla,Snack (Makanan Ringan),100 gram (g),488 kkal,"23,36g","2,458g","9,956g","9,52g",0mg,"7,79g","65,32g","5,3g",1g,421mg,215mg
+429,Keripik Kentang (Asin),Snack (Makanan Ringan),100 gram (g),547 kkal,"37,47g","10,96g","12,17g","9,84g",0mg,"6,56g","49,74g","4,4g","4,12g",525mg,1642mg
+430,Keripik Kentang Bebas Lemak,Snack (Makanan Ringan),1 mangkok,76 kkal,"0,12g","0,03g","0,051g","0,003g",0mg,"1,93g","16,75g","1,5g","0,74g",129mg,326mg
+431,Keripik Kentang,Snack (Makanan Ringan),100 gram (g),547 kkal,"37,47g","10,96g","12,17g","9,84g",0mg,"6,56g","49,74g","4,4g","4,12g",525mg,1642mg
+432,Keripik Kentang (Asin),Snack (Makanan Ringan),100 gram (g),547 kkal,"37,47g","10,96g","12,17g","9,84g",0mg,"6,56g","49,74g","4,4g","4,12g",525mg,1642mg
+433,Keripik Kentang dengan Lemak yang Dikurangi,Snack (Makanan Ringan),100 gram (g),471 kkal,"20,8g","4,16g","10,94g","4,8g",0mg,"7,1g","66,9g","5,9g","0,22g",492mg,1744mg
+434,Keripik Kentang Bebas Lemak,Snack (Makanan Ringan),1 mangkok,76 kkal,"0,12g","0,03g","0,051g","0,003g",0mg,"1,93g","16,75g","1,5g","0,74g",129mg,326mg
+435,Kerupuk / Biskuit,Snack (Makanan Ringan),"1 kerupuk, segi empat",20 kkal,"1,01g","0,151g","0,382g","0,426g",0mg,"0,3g","2,44g","0,1g","0,07g",34mg,5mg
+436,Kerupuk Asin,Snack (Makanan Ringan),1 kerupuk,13 kkal,"0,34g","0,05g","0,037g","0,21g",0mg,"0,28g","2,13g","0,1g","0,01g",32mg,5mg
+437,Kerupuk Gandum,Snack (Makanan Ringan),1 kerupuk,9 kkal,"0,41g","0,104g","0,056g","0,229g",0mg,"0,17g","1,3g","0,1g","0,26g",16mg,4mg
+438,Biskuit Keju,Snack (Makanan Ringan),"1 kerupuk 2,5 cm persegi",5 kkal,"0,25g","0,094g","0,025g","0,121g",0mg,"0,1g","0,58g",0g,0g,10mg,1mg
+439,Kue Beras Merah,Snack (Makanan Ringan),1 kue,35 kkal,"0,25g","0,051g","0,089g","0,093g",0mg,"0,74g","7,34g","0,4g","0,08g",29mg,26mg
+440,Permen Karet (tanpa Gula),Snack (Makanan Ringan),1 buah,5 kkal,"0,01g","0,001g","0,005g","0,002g",0mg,0g,"1,9g",0g,0g,0mg,0mg
+441,Permen Karet (Manis),Snack (Makanan Ringan),1 buah,10 kkal,"0,01g","0,002g","0,005g","0,003g",0mg,0g,"2,64g","0,1g","2,64g",0mg,0mg
+442,Permen Karet,Snack (Makanan Ringan),1 batang,7 kkal,"0,01g","0,001g","0,004g","0,002g",0mg,0g,"1,98g","0,1g","1,98g",0mg,0mg
+443,Popcorn,Snack (Makanan Ringan),100 gram (g),387 kkal,"4,54g","0,637g","2,318g","0,95g",0mg,"12,94g","77,78g","14,5g","0,87g",8mg,329mg
+444,Selai Kacang dan Sandwich Jeli,Snack (Makanan Ringan),1 sandwich,327 kkal,"14,23g","2,931g","4,156g","6,229g",0mg,"10,32g","42,23g","2,9g","12,11g",483mg,222mg
+445,Sandwich Daging Sapi Panggang,Snack (Makanan Ringan),1 sandwich,341 kkal,"13,49g","5,078g","1,058g","5,345g",67mg,"26,85g","26,02g","1,2g","2,22g",602mg,366mg
+446,Sandwich Keju,Snack (Makanan Ringan),1 sandwich,261 kkal,"12,67g","5,378g","2,109g","4,211g",22mg,"9,1g","27,6g","1,2g","3,95g",734mg,127mg
+447,Sushi,Snack (Makanan Ringan),1 buah,37 kkal,"0,11g","0,023g","0,033g","0,033g",1mg,"1,12g","7,77g","0,2g","1,63g",155mg,34mg
+448,Sushi dengan Sayuran dan Seafood,Snack (Makanan Ringan),1 buah,36 kkal,"0,11g","0,026g","0,032g","0,023g",2mg,"1,4g","7,15g","0,3g","1,47g",56mg,34mg
+449,Sushi dengan Sayuran,Snack (Makanan Ringan),1 buah,38 kkal,"0,07g","0,018g","0,023g","0,017g",0mg,"0,8g","8,24g","0,3g","1,7g",62mg,26mg
+450,Sushi dengan Sayuran yang Digulung dengan Rumput Laut,Snack (Makanan Ringan),1 buah,31 kkal,"0,06g","0,017g","0,018g","0,018g",0mg,"0,57g","6,71g","0,1g","1,16g",25mg,16mg
+451,Sashimi Salmon,Snack (Makanan Ringan),1 buah,41 kkal,"1,68g","0,357g","0,565g","0,605g",13mg,"6,13g",0g,0g,0g,13mg,120mg
