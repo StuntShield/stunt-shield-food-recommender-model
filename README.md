@@ -1,4 +1,4 @@
-# StuntShield - Children's Foods Recommender.
+# StuntShield - Children's Foods Recommender. (Depcrecated)
 <hr>
 
 
